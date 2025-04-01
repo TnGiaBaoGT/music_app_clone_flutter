@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355578281829",
+    "project_id": "instarelica",
+    "storage_bucket": "instarelica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355578281829:android:074158ea120b69dbb42b8c",
+        "android_client_info": {
+          "package_name": "com.example.musicapp_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD-EXgj61uA_o8-MYXIOGSdVHtwR6bLc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
